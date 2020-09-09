@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(229, 192, 143);
+}
+form{   
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30;
+    font-style: oblique;
+    background-size: cover;
+    border-style: double;
+    background-image: url(image.jpg);
+    background-repeat: no-repeat;
+    background-position: unset;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 30;
+    text-align: center;
+}
+ul{
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    list-style-type: none;
+}
+table{
+    border-style: dotted;
+}
+button{
+    background-size: 20cm;
+    background-color: rgb(197, 190, 123);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30;
+    font-style: bolder;
+    text-align: center; 
+    margin: auto;
+}
+h5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: oblique;
+    font-size: 20;
+    text-align: right;
+}
